@@ -74969,7 +74969,7 @@ return A.z($async$ll,r)},
 xf(){var s=0,r=A.A(t.H),q=this,p,o
 var $async$xf=A.w(function(a,b){if(a===1)return A.x(b,r)
 while(true)switch(s){case 0:s=2
-return A.o(A.al2(A.dd("https://nitinnaikwadi1.github.io/vedeobase/data/learning_app/learning_app_backgrounds.json")),$async$xf)
+return A.o(A.al2(A.dd("https://nitinnaikwadi1.github.io/vedeobase/data/app_generic_backgrounds.json")),$async$xf)
 case 2:p=b
 o=t.j.a(B.bf.dc(A.akT(A.ajY(p.e).c.a.i(0,"charset")).dc(p.w)))
 J.UD(o)
